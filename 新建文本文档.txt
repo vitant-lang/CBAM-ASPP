@@ -1,0 +1,7 @@
+conv1x1 size: torch.Size([1, 256, 32, 32])
+con3x3_1 size: torch.Size([1, 256, 32, 32])
+conv3x3_2 size: torch.Size([1, 256, 32, 32])
+conv3x3_3 size: torch.Size([1, 256, 32, 32])
+global_feature size: torch.Size([1, 256, 32, 32])
+feature_cat size: torch.Size([1, 1280, 32, 32])
+result size: torch.Size([1, 256, 32, 32])
